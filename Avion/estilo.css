@@ -1,0 +1,28 @@
+#oceano {
+    background-image: url("oceano.jpg");
+    
+    width: 900px;
+    height: 700px;
+    
+}
+
+.jugador{
+    position: absolute;
+    background-image: url("jugador.png");
+    width: 70px;
+    height: 75px;			
+}
+
+.enemigo{
+    position: absolute;
+    background-image: url("enemigo.png");
+    width: 70px;
+    height: 75px;	
+}
+
+.misil {
+    position: absolute;
+    background-color: yellow;
+    width: 2px;
+    height: 10px;
+}
